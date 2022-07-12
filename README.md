@@ -1,4 +1,4 @@
-# Lexo Website Backend
+## Lexo Backend
 1. Download the Node.js pre-built installer for your platform from <br />
 https://nodejs.org/en/download/ if not installed <br />
 
