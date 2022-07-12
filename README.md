@@ -7,17 +7,17 @@ https://nodejs.org/en/download/ if not installed <br />
 cd backend
 ```
 3. Install the dependencies <br />
-You need to install the node modules to run the node files <br />
+You need to install the dependencies <br />
 ```
 npm install
 ```
 
 4. Create .env file <br />
-The .env file is created at the root folder named backend. <br/>
+The .env file is created at the root folder backend. <br/>
 The file should include the following details: <br />
 ```
-PORT="port numbet"
-SECRET="Secret key word"
+PORT="port number"
+SECRET="Secret key"
 USER1="your email"
 PASS1="password to the email"
 ```
