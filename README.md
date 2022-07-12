@@ -29,7 +29,7 @@ https://www.apachefriends.org/download.html <br />
 6. Import database to your <br />
 http://localhost/phpmyadmin/ on your computer with the apache server and MySQL database started the file called 'thelexo' found in the files of this repository<br />
 
-7. Run the file </br >
+7. Run the backend </br >
 ```
 npm start
 ```
